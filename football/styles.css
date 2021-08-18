@@ -24,9 +24,14 @@ img{
     background-color: #e93330;
     margin: 80px;
     padding: 50px;
+    border-radius: 5%;
 }
 
 .btn{
     border: 1px solid black;
 }
 
+.logo{
+    height: 80px;
+    width: 80px;
+}
